@@ -1,1 +1,1 @@
-This repository contains files on scripting
+about permissions
